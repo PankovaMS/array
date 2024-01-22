@@ -1,0 +1,14 @@
+D:\#Панкова\test\bin\Debug\net8.0\test.exe
+D:\#Панкова\test\bin\Debug\net8.0\test.deps.json
+D:\#Панкова\test\bin\Debug\net8.0\test.runtimeconfig.json
+D:\#Панкова\test\bin\Debug\net8.0\test.dll
+D:\#Панкова\test\bin\Debug\net8.0\test.pdb
+D:\#Панкова\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Панкова\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+D:\#Панкова\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+D:\#Панкова\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+D:\#Панкова\test\obj\Debug\net8.0\test.dll
+D:\#Панкова\test\obj\Debug\net8.0\refint\test.dll
+D:\#Панкова\test\obj\Debug\net8.0\test.pdb
+D:\#Панкова\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+D:\#Панкова\test\obj\Debug\net8.0\ref\test.dll
